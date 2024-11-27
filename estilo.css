@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px 20px;
+    color: black;
+    
+}
+ 
+body{
+
+    background: linear-gradient(68.15deg, #05853a 25.62%, #dddada 100% );
+    color: #333;
+ 
+}
+
+
+
+input {
+    border-color: #ff6347;
+}
+
+
+select {
+    font-size: 1em;
+    padding: 10px;
+    background-color: #f9f9f9;
+}
